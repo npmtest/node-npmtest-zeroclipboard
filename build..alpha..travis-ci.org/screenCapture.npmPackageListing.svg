@@ -1,16 +1,16 @@
 <svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="206" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 01:46:18 +0000   478328 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 01:46:18 +0000     1097 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 01:46:18 +0000     5612 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 01:46:18 +0000    71299 bytes  dist/ZeroClipboard.Core.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 01:46:18 +0000    25332 bytes  dist/ZeroClipboard.Core.min.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 01:46:18 +0000   108065 bytes  dist/ZeroClipboard.Core.min.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 01:46:18 +0000    89832 bytes  dist/ZeroClipboard.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 01:46:18 +0000    31536 bytes  dist/ZeroClipboard.min.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 01:46:18 +0000   135270 bytes  dist/ZeroClipboard.min.map</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 01:46:18 +0000     6580 bytes  dist/ZeroClipboard.swf</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 01:46:18 +0000     3705 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 01:47:18 +0000   478328 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 01:47:18 +0000     1097 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 01:47:18 +0000     5612 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 01:47:18 +0000    71299 bytes  dist/ZeroClipboard.Core.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 01:47:18 +0000    25332 bytes  dist/ZeroClipboard.Core.min.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 01:47:18 +0000   108065 bytes  dist/ZeroClipboard.Core.min.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 01:47:18 +0000    89832 bytes  dist/ZeroClipboard.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 01:47:18 +0000    31536 bytes  dist/ZeroClipboard.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 01:47:18 +0000   135270 bytes  dist/ZeroClipboard.min.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 01:47:18 +0000     6580 bytes  dist/ZeroClipboard.swf</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 01:47:18 +0000     3705 bytes  package.json</tspan>
 </text>
 </svg>
